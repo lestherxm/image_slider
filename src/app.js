@@ -3,7 +3,7 @@ const btnForward = document.querySelector('.btn-forward');
 const currentImage = document.querySelector('.current-image');
 
 const images = [
-    './src/img/slider/01.png',
+    './src/img/slider/01.jpg',
     './src/img/slider/02.jpg',
     './src/img/slider/03.jpg',
     './src/img/slider/04.jpg',
