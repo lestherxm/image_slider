@@ -10,6 +10,7 @@ const images = [
     './src/img/slider/05.jpg',
     './src/img/slider/06.jpg',
 ];
+
 // setting a default img index
 let currentIndex = 0;
 
